@@ -13,6 +13,7 @@ Report:
 
 #### Results:
 1) First try and first result with just 3 images:
+   
 |   | Image           | Prediction v. GT IoU | FP | TP | FN | Precision | Recall | Accuracy | F1 |
 |---|------------------|------------------------|----|----|----|-----------|--------|----------|----|
 | 0 | cb13cb5f85.png   | 0                      | 0  | 0  | 2  | 0         | 0      | 0        | 0  |
