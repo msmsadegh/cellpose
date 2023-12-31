@@ -21,6 +21,7 @@ Report:
 | 2 | cc87926397.png   | 0.53515                | 3  | 16 | 1  | 0.842105  | 0.941176 | 0.8      | 0.888889  |
 
 2) Second Try with the whole new data set, Here is random 10 lines of result:
+   
 |     | Image           | Prediction v. GT IoU | FP | TP | FN | Precision | Recall   | Accuracy | F1        |
 |-----|------------------|------------------------|----|----|----|-----------|----------|----------|-----------|
 |   0 | 0a55e7c93f.png | 0.00710279             | 0  | 1  | 23 | 1         | 0.0416667| 0.0416667| 0.08      |
