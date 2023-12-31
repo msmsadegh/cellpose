@@ -1,7 +1,5 @@
-#Cellpose
-
-
-##Report:
+Cellpose
+Report:
 
 ### Day One:
 
