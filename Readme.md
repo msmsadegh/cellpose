@@ -76,6 +76,12 @@ Report:
 |  49 | 7c5501d292.png | 0                      | 1  | 0  | 9  | 0         | 0        | 0        | 0         |
 
 
+3) Here is 3 random images with different results and evaluations
+![alt 1](https://github.com/msmsadegh/cellpose/blob/main/images/download%20(2).png)
+![alt 2](https://github.com/msmsadegh/cellpose/blob/main/images/download%20(1).png)
+![alt 3](https://github.com/msmsadegh/cellpose/blob/main/images/download.png)
+
+
 ## Bugs:
 1) 
 
